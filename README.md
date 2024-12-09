@@ -4,7 +4,7 @@ Welcome to the Business Intelligence Dashboard Repository!
 
 This repository contains a collection of meticulously designed dashboards aimed at delivering actionable insights across key business domains. These dashboards empower decision-makers with data-driven perspectives to enhance performance, identify opportunities, and drive strategic outcomes.
 
-###Live Dashboard link -  
+###Live Dashboard link -  [_Click Here_]([https://github.com/Anup76/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf](https://app.powerbi.com/links/s7j0TJZXMj?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)).
 
 # Technologies and Techniques Used in Business Intelligence Dashboard  
 
