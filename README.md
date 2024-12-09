@@ -4,7 +4,7 @@ Welcome to the Business Intelligence Dashboard Repository!
 
 This repository contains a collection of meticulously designed dashboards aimed at delivering actionable insights across key business domains. These dashboards empower decision-makers with data-driven perspectives to enhance performance, identify opportunities, and drive strategic outcomes.
 
-Live Dashboard link -  [Click Here](https://app.powerbi.com/links/s7j0TJZXMj?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+Live Dashboard link -  [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYzVmNDEyZWYtMTRmZi00MzIwLWEwMTgtNGMzYjgzMDNkZGNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Technologies and Techniques Used in Business Intelligence Dashboard  
 
